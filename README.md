@@ -4,4 +4,5 @@
 - Adryel Hebert
 - Romulo Rezende
 - Maria Clara
+- Erick Vinícius
 #
