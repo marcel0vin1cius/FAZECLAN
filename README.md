@@ -5,6 +5,7 @@
 - Romulo Rezende
 - Maria Clara
 - Erick Vinícius
-- Alexandre 
+- Alexandre
+- Carlos Daniel
 #
 00
